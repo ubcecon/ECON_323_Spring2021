@@ -2,7 +2,7 @@
 ## Quantitative Economic Modeling with Data Science Applications
 
 - **Instructor:**
-  - Section 3: schrimpf@mail.ubc.ca
+  - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
@@ -19,7 +19,7 @@ Class will be held online, using Collaborate Ultra through Canvas.
 
 ## Course Materials and Communications
 All materials will be provided online:
-- Class Materials: https://github.com/ubcecon/ECON323_2020_Fall
+- Class Materials: https://github.com/ubcecon/ECON_323_2020_Spring2021
 - Communications, Announcements, and Grades: http://canvas.ubc.ca
 
 ## Grading
@@ -84,4 +84,4 @@ We won't be able to cover it all
 
 ## Schedule
 
-Here is a [tentative schedule](https://github.com/ubcecon/ECON323_2020/blob/master/schedule.md).
+[Tentative schedule](schedule.md) subject to changes.
