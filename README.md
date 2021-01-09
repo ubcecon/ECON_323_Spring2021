@@ -15,7 +15,12 @@ You will not need to install any software on your local computer.  Instead:
 
 If possible, please bring a laptop to class to interactively discuss the material.
 
-## Teaching Assistant
+## Instructor and Teaching Assistant
+Instructor
+- Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
+- Office Hours: Mondays 3pm - 4pm, Vancouver time
+
+Teaching Assistant
 - Jan Rosa [jan.rosa1993@gmail.com](mailto:jan.rosa1993@gmail.com)
 - Office Hours: Mondays 10am - 12am, Vancouver time
 
@@ -32,7 +37,7 @@ Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/projects.html)
 
-## Lecture and Problem Set Schedule (by Section)
-- [Schedule](schedule.md) Office Hours: (Mondays 3-4pm)
+## Lecture and Problem Set Schedule
+- [Schedule](schedule.md)
 
 All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
