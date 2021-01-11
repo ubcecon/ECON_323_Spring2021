@@ -22,7 +22,7 @@ Instructor
 
 Teaching Assistant
 - Jan Rosa [jan.rosa1993@gmail.com](mailto:jan.rosa1993@gmail.com)
-- Office Hours: Mondays 10am - 12am, Vancouver time
+- Office Hours: Mondays 10:15am - 11:15am, Vancouver time
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
