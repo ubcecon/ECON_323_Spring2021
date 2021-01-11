@@ -1,8 +1,8 @@
 ## Lectures and Notebooks
 Tentative schedules below subject to changes (e.g. problem set reviews):
 
-1. **January 11th** -  Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
-2. **January 13th** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
+1. **January 11th** - Overview, logistics, and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
+2. **January 13th** - The rest of [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) (start from [Numbers](https://datascience.quantecon.org/python_fundamentals/basics.html#Numbers)) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
 3. **January 18th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. **January 20th** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
