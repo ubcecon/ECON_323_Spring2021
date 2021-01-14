@@ -1,8 +1,10 @@
 ## Lectures and Notebooks
-Tentative schedules below subject to changes (e.g. problem set reviews):
 
 1. **January 11th** - Overview, logistics, and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
-2. **January 13th** - The rest of [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) (start from [Numbers](https://datascience.quantecon.org/python_fundamentals/basics.html#Numbers)) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
+2. **January 13th** - The rest of [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) (start from [Numbers](https://datascience.quantecon.org/python_fundamentals/basics.html#Numbers)) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) (lists, tuples, dictionaries)
+
+Tentative schedules are below (subject to changes)
+
 3. **January 18th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. **January 20th** - [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
@@ -31,10 +33,8 @@ Tentative schedules below subject to changes (e.g. problem set reviews):
 28. **April 14th** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 
 ## Problem Sets
-TBA
-
+1. Due **January 21st** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb file through Canvas)
 <!--
-1. Due **September 16th** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb through Canvas)
 2. Due **September 24th** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html)
 3. Due **October 1st** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6
