@@ -8,7 +8,7 @@
 Tentative schedules are below (subject to changes)
 
 5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
-6. **January 27th** - [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+6. **January 27th** - PS1 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 7. **February 1st** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **February 3rd** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 8th** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
