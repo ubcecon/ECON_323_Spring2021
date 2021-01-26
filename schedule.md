@@ -4,10 +4,10 @@
 2. **January 13th** - The rest of [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) (start from [Numbers](https://datascience.quantecon.org/python_fundamentals/basics.html#Numbers)) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) (lists, tuples, dictionaries)
 3. **January 18th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) (if/else, for/while loops) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. **January 20th** - The rest of [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) (break, continue, comprehensions), and [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
+5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 
 Tentative schedules are below (subject to changes)
 
-5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 6. **January 27th** - PS1 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 7. **February 1st** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **February 3rd** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
