@@ -5,11 +5,12 @@
 3. **January 18th** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) (if/else, for/while loops) and lab session on Jupyter, Syzygy, etc.  in prep for PS1
 4. **January 20th** - The rest of [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) (break, continue, comprehensions), and [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html)
 5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
+6. **January 27th** - PS1 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 
 Tentative schedules are below (subject to changes)
 
-6. **January 27th** - PS1 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
-7. **February 1st** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
+7. **February 1st** - The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) (starting from Unemployment Dynamics), and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+<!--
 8. **February 3rd** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 8th** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **February 10th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
@@ -31,12 +32,13 @@ Tentative schedules are below (subject to changes)
 26. **April 7th** - Final Project Brainstorming / Discussion
 27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 28. **April 14th** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+-->
 
 ## Problem Sets
 1. Due **January 21st** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb file through Canvas)
 2. Due **January 28th** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html)
+3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
 <!--
-3. Due **October 1st** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
 4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6
 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10.
