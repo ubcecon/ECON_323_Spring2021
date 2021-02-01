@@ -9,7 +9,7 @@
 
 Tentative schedules are below (subject to changes)
 
-7. **February 1st** - The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) (starting from Unemployment Dynamics), and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+7. **February 1st** - Examples of NPV evaluation; The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) (starting from Unemployment Dynamics), and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 <!--
 8. **February 3rd** - Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) and start [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 8th** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
