@@ -21,6 +21,8 @@ You should target roughly a similar length as the amount of code in one of your 
 
 If you are basing your project on an existing thesis/etc. then we will expect a higher quality of project since you would have a good starting point.
 
+There is no maximum limit of the length of notebooks, but you will not be awarded or penalized for a long notebook.
+
 ## Grading
 
 There are many ways to do well on this project, for example you could do well with alterative strategies:
