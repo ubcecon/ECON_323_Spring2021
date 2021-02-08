@@ -7,13 +7,14 @@
 5. **January 25th** - [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 6. **January 27th** - PS1 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 7. **February 1st** - Examples of NPV evaluation; The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) (NPV portfolio evaluation and Unemployment dynamics)
+8. **February 3rd** - PS2 review and [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+
 
 Tentative schedules are below (subject to changes)
 
-8. **February 3rd** - PS2 review and [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+9. **February 8th** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 
 <!--
-9. **February 8th** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 10. **February 10th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 11. **February 15th** - Midterm break; Family Day
 12. **February 17th** - Midterm break
