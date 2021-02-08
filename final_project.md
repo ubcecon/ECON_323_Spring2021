@@ -29,7 +29,7 @@ There are many ways to do well on this project, for example you could do well wi
 * If you build a new dataset, it could compensate for a less interesting analysis and visualization
 * If you do a highly interactive visualization, it could compensate for using a preexisting dataset
 * If you use some of the new machine learning techniques you learned in the class, you can get by with less interesting datasets
-* Taking the time to make the project public (e.g.a github repository)
+* Taking the time to make the project public (e.g. a github repository)
 
 The main criteria for grading will be:
 * Showing one of more examples of techniques learned in the latter part of the course
