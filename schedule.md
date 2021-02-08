@@ -8,16 +8,16 @@
 6. **January 27th** - PS1 review, [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 7. **February 1st** - Examples of NPV evaluation; The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) (NPV portfolio evaluation and Unemployment dynamics)
 8. **February 3rd** - PS2 review and [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+9. **February 8th** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 
 
 Tentative schedules are below (subject to changes)
-
-9. **February 8th** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
-
-<!--
 10. **February 10th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
 11. **February 15th** - Midterm break; Family Day
 12. **February 17th** - Midterm break
+
+<!--
+
 13. **February 22nd** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 14. **February 24th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 15. **March 1st** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
@@ -40,8 +40,8 @@ Tentative schedules are below (subject to changes)
 1. Due **January 21st** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb file through Canvas)
 2. Due **January 28th** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html)
 3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
+4. Due **February 21st** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - **Questions 1, 2, 3, and 6 Only**
 <!--
-4. Due **October 8th** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - Only quetsions 1, 3, 5, and 6
 5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10.
 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)
