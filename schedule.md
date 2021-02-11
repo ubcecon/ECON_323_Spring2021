@@ -9,17 +9,17 @@
 7. **February 1st** - Examples of NPV evaluation; The rest of [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) (NPV portfolio evaluation and Unemployment dynamics)
 8. **February 3rd** - PS2 review and [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 9. **February 8th** - [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
-
-
-Tentative schedules are below (subject to changes)
-10. **February 10th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html), and start [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html)
+10. **February 10th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
 11. **February 15th** - Midterm break; Family Day
 12. **February 17th** - Midterm break
 
+Tentative schedules are below (subject to changes)
+
+13. **February 22nd** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html); Go through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html) if time permitted
+14. **February 24th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
+
 <!--
 
-13. **February 22nd** - Quickly through [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
-14. **February 24th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
 15. **March 1st** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 16. **March 3rd** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
 17. **March 8th** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
