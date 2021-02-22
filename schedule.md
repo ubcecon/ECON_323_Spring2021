@@ -12,7 +12,7 @@
 10. **February 10th** - [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
 11. **February 15th** - Midterm break; Family Day
 12. **February 17th** - Midterm break
-13. **February 22nd** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html) ,and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+13. **February 22nd** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html), and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 
 Tentative schedules are below (subject to changes)
 
