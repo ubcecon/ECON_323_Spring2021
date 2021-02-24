@@ -41,8 +41,8 @@ Tentative schedules are below (subject to changes)
 2. Due **January 28th** - [Problem Set 2](https://datascience.quantecon.org/problem_sets/problem_set_2.html)
 3. Due **February 4th** - [Problem Set 3](https://datascience.quantecon.org/problem_sets/problem_set_3.html)
 4. Due **February 21st** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - **Questions 1, 2, 3, and 6 Only**
+5. Due **March 4th** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 <!--
-5. Due **October 22nd** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 6. Due **October 29th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - Only questions 1-7 and 9-10.
 7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)
 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -->
