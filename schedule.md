@@ -13,10 +13,11 @@
 11. **February 15th** - Midterm break; Family Day
 12. **February 17th** - Midterm break
 13. **February 22nd** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html), and [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+14. **February 24th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html), and start [Merge](https://datascience.quantecon.org/pandas/merge.html)
 
 Tentative schedules are below (subject to changes)
-
-14. **February 24th** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html); [Merge](https://datascience.quantecon.org/pandas/merge.html)
+15. **March 1st** - The rest of [Merge](https://datascience.quantecon.org/pandas/merge.html) (starting from .merge), quickly go through [The Index](https://datascience.quantecon.org/pandas/the_index.html)
+16. **March 3rd** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 
 <!--
 
