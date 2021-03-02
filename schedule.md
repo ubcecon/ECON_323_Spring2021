@@ -19,10 +19,11 @@
 Tentative schedules are below (subject to changes)
 
 16. **March 3rd** - The rest of [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
+17. **March 8th** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html) and [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+18. **March 10th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 
 <!--
 
-15. **March 1st** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 16. **March 3rd** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html)
 17. **March 8th** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 18. **March 10th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
