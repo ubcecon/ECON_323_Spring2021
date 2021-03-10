@@ -17,15 +17,13 @@
 15. **March 1st** - The rest of [Merge](https://datascience.quantecon.org/pandas/merge.html) (starting from .merge), quickly go through [The Index](https://datascience.quantecon.org/pandas/the_index.html), and start [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 16. **March 3rd** - The rest of [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 17. **March 8th** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html) and [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+18. **March 10th** - PS5 review, The rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html); Start [Regression](https://datascience.quantecon.org/applications/regression.html)
 
 Tentative schedules are below (subject to changes)
 
-18. **March 10th** - PS5 review, The rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html); Start [Regression](https://datascience.quantecon.org/applications/regression.html)
+19. **March 15th** - LASSO in [Regression](https://datascience.quantecon.org/applications/regression.html)
 
 <!--
-
-18. **March 10th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-19. **March 15th** - [Regression](https://datascience.quantecon.org/applications/regression.html)
 20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
 22. **March 24th** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
