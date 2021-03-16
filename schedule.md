@@ -21,7 +21,7 @@
 
 Tentative schedules are below (subject to changes)
 
-19. **March 15th** - LASSO in [Regression](https://datascience.quantecon.org/applications/regression.html)
+19. **March 15th** - The rest of [Regression](https://datascience.quantecon.org/applications/regression.html) starting from LASSO
 
 <!--
 20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
