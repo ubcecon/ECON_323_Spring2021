@@ -18,14 +18,16 @@
 16. **March 3rd** - The rest of [Groupby](https://datascience.quantecon.org/pandas/groupby.html) and [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 17. **March 8th** - [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html) and [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 18. **March 10th** - PS5 review, The rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html); Start [Regression](https://datascience.quantecon.org/applications/regression.html)
+19. **March 15th** - The rest of [Regression](https://datascience.quantecon.org/applications/regression.html) starting from LASSO
+20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 
 Tentative schedules are below (subject to changes)
+21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
 
-19. **March 15th** - The rest of [Regression](https://datascience.quantecon.org/applications/regression.html) starting from LASSO
 
 <!--
-20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+
+
 22. **March 24th** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
 23. **March 29th** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 24. **March 31st** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
