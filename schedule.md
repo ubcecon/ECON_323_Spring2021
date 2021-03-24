@@ -20,13 +20,12 @@
 18. **March 10th** - PS5 review, The rest of [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html); Start [Regression](https://datascience.quantecon.org/applications/regression.html)
 19. **March 15th** - The rest of [Regression](https://datascience.quantecon.org/applications/regression.html) starting from LASSO
 20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
 
 Tentative schedules are below (subject to changes)
-21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
 
 
 <!--
-
 
 22. **March 24th** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
 23. **March 29th** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
@@ -44,7 +43,8 @@ Tentative schedules are below (subject to changes)
 4. Due **February 21st** - [Problem Set 4](https://datascience.quantecon.org/problem_sets/problem_set_4.html) - **Questions 1, 2, 3, and 6 Only**
 5. Due **March 4th** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 6. Due **March 17th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - **Questions 1-7 Only**
+7. Due **March 30th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)
 
 <!--
-7. Due **November 5th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)
+
 7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -->
