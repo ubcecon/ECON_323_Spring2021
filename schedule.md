@@ -24,10 +24,10 @@
 
 Tentative schedules are below (subject to changes)
 
+22. **March 24th** - The rest of [Classification](https://datascience.quantecon.org/applications/classification.html); then [Mapping](https://datascience.quantecon.org/applications/maps.html)
 
 <!--
-
-22. **March 24th** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
+, [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
 23. **March 29th** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 24. **March 31st** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 25. **April 5th** - Easter Monday
