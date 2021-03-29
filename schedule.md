@@ -21,15 +21,16 @@
 19. **March 15th** - The rest of [Regression](https://datascience.quantecon.org/applications/regression.html) starting from LASSO
 20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+22. **March 24th** - The rest of [Classification](https://datascience.quantecon.org/applications/classification.html); then [Mapping](https://datascience.quantecon.org/applications/maps.html)
 
 Tentative schedules are below (subject to changes)
 
-22. **March 24th** - The rest of [Classification](https://datascience.quantecon.org/applications/classification.html); then [Mapping](https://datascience.quantecon.org/applications/maps.html)
+23. **March 29th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 
 <!--
 , [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-23. **March 29th** - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-24. **March 31st** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+- [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
+24. **March 31st** -
 25. **April 5th** - Easter Monday
 26. **April 7th** - Final Project Brainstorming / Discussion
 27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
