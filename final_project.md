@@ -25,7 +25,7 @@ There is no maximum limit of the length of notebooks, but you will not be awarde
 
 ## Grading
 
-There are many ways to do well on this project, for example you could do well with alterative strategies:
+There are many ways to do well on this project, for example you could do well with alternative strategies:
 * If you build a new dataset, it could compensate for a less interesting analysis and visualization
 * If you do a highly interactive visualization, it could compensate for using a preexisting dataset
 * If you use some of the new machine learning techniques you learned in the class, you can get by with less interesting datasets

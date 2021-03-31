@@ -22,19 +22,22 @@
 20. **March 17th** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
 21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
 22. **March 24th** - The rest of [Classification](https://datascience.quantecon.org/applications/classification.html); then [Mapping](https://datascience.quantecon.org/applications/maps.html)
+23. **March 29th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 
 Tentative schedules are below (subject to changes)
 
-23. **March 29th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+24. **March 31st** - PS6 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+25. **April 5th** - Easter Monday
+26. **April 7th** - Final Project Brainstorming / Discussion
+27. **April 12th** -
+28. **April 14th** -
 
 <!--
 , [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
 - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-24. **March 31st** -
-25. **April 5th** - Easter Monday
-26. **April 7th** - Final Project Brainstorming / Discussion
-27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-28. **April 14th** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+
+27. **April 12th** -
+28. **April 14th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 -->
 
 ## Problem Sets
@@ -45,7 +48,3 @@ Tentative schedules are below (subject to changes)
 5. Due **March 4th** - [Problem Set 5](https://datascience.quantecon.org/problem_sets/problem_set_5.html)
 6. Due **March 17th** - [Problem Set 6](https://datascience.quantecon.org/problem_sets/problem_set_6.html) - **Questions 1-7 Only**
 7. Due **March 30th** - [Problem Set 7](https://datascience.quantecon.org/problem_sets/problem_set_7.html)
-
-<!--
-
-7. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -->
