@@ -23,11 +23,11 @@
 21. **March 22nd** - [Classification](https://datascience.quantecon.org/applications/classification.html)
 22. **March 24th** - The rest of [Classification](https://datascience.quantecon.org/applications/classification.html); then [Mapping](https://datascience.quantecon.org/applications/maps.html)
 23. **March 29th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+24. **March 31st** - PS6 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+25. **April 5th** - Easter Monday
 
 Tentative schedules are below (subject to changes)
 
-24. **March 31st** - PS6 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
-25. **April 5th** - Easter Monday
 26. **April 7th** - Final Project Brainstorming / Discussion
 27. **April 12th** -
 28. **April 14th** -
