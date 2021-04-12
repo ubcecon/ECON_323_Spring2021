@@ -3,7 +3,7 @@
 * Final project **proposal due** on **April 9th**
   * The writeup for this can be very short (e.g. 1/2 page or whatever), just so we can all agree on whether it is acceptable.  **It will not be graded.**  If we think that the proposal is inappropriate, or want some clarifications, we will tell you that week.
   * If you decide to work in pairs, then you should say something about how work will be divided and coordinated in the project proposal.
-* The final project is **due April 28th**
+* The final project is **due April 29th**
 
 *If you wish to submit a draft at least 1 week prior to the due date, we will get back to you within 3 days with feedback so you can make some changes.*
 
