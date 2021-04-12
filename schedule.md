@@ -30,7 +30,7 @@
 Tentative schedules are below (subject to changes)
 
 27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-28. **April 14th** - Covid related
+28. **April 14th** - PS7 review, Covid related
 
 <!--
 , [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
