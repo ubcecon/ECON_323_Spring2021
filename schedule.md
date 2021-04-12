@@ -25,19 +25,17 @@
 23. **March 29th** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 24. **March 31st** - PS6 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 25. **April 5th** - Easter Monday
+26. **April 7th** - Final Project Brainstorming / Discussion
 
 Tentative schedules are below (subject to changes)
 
-26. **April 7th** - Final Project Brainstorming / Discussion
-27. **April 12th** -
-28. **April 14th** -
+27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
+28. **April 14th** - Covid related
 
 <!--
 , [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
 - [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 
-27. **April 12th** -
-28. **April 14th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 -->
 
 ## Problem Sets
