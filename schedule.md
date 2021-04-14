@@ -27,7 +27,7 @@
 25. **April 5th** - Easter Monday
 26. **April 7th** - Final Project Brainstorming / Discussion
 27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-28. **April 14th** - PS7 review, Covid related notebooks (SEe https://github.com/ubcecon/ECON_323_Spring2021/tree/master/extra_notebooks), Summary
+28. **April 14th** - PS7 review, Covid related notebooks (See https://github.com/ubcecon/ECON_323_Spring2021/tree/master/extra_notebooks), Summary
 
 Tentative schedules are below (subject to changes)
 
