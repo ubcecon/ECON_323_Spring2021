@@ -26,17 +26,10 @@
 24. **March 31st** - PS6 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 25. **April 5th** - Easter Monday
 26. **April 7th** - Final Project Brainstorming / Discussion
+27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
+28. **April 14th** - PS7 review, Covid related notebooks (SEe https://github.com/ubcecon/ECON_323_Spring2021/tree/master/extra_notebooks), Summary
 
 Tentative schedules are below (subject to changes)
-
-27. **April 12th** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-28. **April 14th** - PS7 review, Covid related
-
-<!--
-, [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb)
-- [Covid trends (continued)](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-
--->
 
 ## Problem Sets
 1. Due **January 21st** - [Problem Set 1](https://datascience.quantecon.org/problem_sets/problem_set_1.html) (uploaded as **executed** ipynb file through Canvas)
